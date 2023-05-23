@@ -14,7 +14,7 @@
 
 :root {
 	--app-bg: url(https://cdn.discordapp.com/attachments/1008320057996230719/1110471473086353408/OoDjdk5.png);
-	--app-blur: 2px;
+	--app-blur: 5px;
 	--app-margin: 24px;
 	--app-radius: 20px; /*	-	*/
 
